@@ -1,0 +1,92 @@
+﻿<Window x:Class="POMIDOR.Views.GoalsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Cele" Width="560" Height="480" WindowStartupLocation="CenterOwner">
+
+    <!-- Watermark dla TextBox (pseudo-placeholder) -->
+    <Window.Resources>
+        <Style x:Key="WatermarkTextBox" TargetType="TextBox">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="TextBox">
+                        <Grid>
+                            <ScrollViewer x:Name="PART_ContentHost"/>
+                            <TextBlock x:Name="Watermark"
+                                       Text="{TemplateBinding Tag}"
+                                       Foreground="#888"
+                                       Margin="4,2,0,0"
+                                       IsHitTestVisible="False"
+                                       Visibility="Collapsed"/>
+                        </Grid>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="Text" Value="">
+                                <Setter TargetName="Watermark" Property="Visibility" Value="Visible"/>
+                            </Trigger>
+                            <Trigger Property="IsKeyboardFocusWithin" Value="True">
+                                <Setter TargetName="Watermark" Property="Visibility" Value="Collapsed"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+
+    <Grid Margin="16">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <!-- Dodawanie celu -->
+            <RowDefinition Height="*"/>
+            <!-- Lista celów -->
+        </Grid.RowDefinitions>
+
+        <!-- Dodawanie celu -->
+        <StackPanel Grid.Row="0" Orientation="Horizontal">
+            <TextBox x:Name="GoalNameBox"
+                     Style="{StaticResource WatermarkTextBox}"
+                     Tag="Nazwa celu"
+                     Width="240" Margin="0,0,8,0"/>
+            <ComboBox x:Name="GoalTermBox" Width="160" SelectedIndex="0" Margin="0,0,8,0">
+                <ComboBoxItem Content="Krótkoterminowy"/>
+                <ComboBoxItem Content="Długoterminowy"/>
+            </ComboBox>
+            <Button Content="Dodaj cel" Width="110" Click="AddGoal_Click"/>
+        </StackPanel>
+
+        <!-- Lista celów -->
+        <ListView Grid.Row="1" ItemsSource="{Binding Goals}">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Cel" Width="220"
+                                    DisplayMemberBinding="{Binding Name}"/>
+
+                    <GridViewColumn Header="Horyzont" Width="160">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <!-- enum GoalTerm ma wartości 0/1, więc SelectedIndex działa dwukierunkowo -->
+                                <ComboBox SelectedIndex="{Binding Term, Mode=TwoWay}" Width="140">
+                                    <ComboBoxItem Content="Krótkoterminowy"/>
+                                    <ComboBoxItem Content="Długoterminowy"/>
+                                </ComboBox>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+
+                    <GridViewColumn Header="Postęp" Width="150">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <Grid>
+                                    <ProgressBar Minimum="0" Maximum="100" Height="14"
+                                                 Value="{Binding ProgressPercent, Mode=OneWay}"/>
+                                    <TextBlock Text="{Binding ProgressPercent, StringFormat={}{0}%}"
+                                               HorizontalAlignment="Center" VerticalAlignment="Center"
+                                               FontSize="11" FontWeight="SemiBold"/>
+                                </Grid>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
+</Window>

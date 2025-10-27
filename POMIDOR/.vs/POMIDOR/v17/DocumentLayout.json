@@ -1,0 +1,591 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\POMIDOR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C98D2B70-9C2A-4576-A925-D5583CF7A77D}|POMIDOR\\POMIDOR.csproj|c:\\users\\user\\desktop\\pomidor\\pomidor\\viewmodels\\analyticsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98D2B70-9C2A-4576-A925-D5583CF7A77D}|POMIDOR\\POMIDOR.csproj|solutionrelative:pomidor\\viewmodels\\analyticsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98D2B70-9C2A-4576-A925-D5583CF7A77D}|POMIDOR\\POMIDOR.csproj|c:\\users\\user\\desktop\\pomidor\\pomidor\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98D2B70-9C2A-4576-A925-D5583CF7A77D}|POMIDOR\\POMIDOR.csproj|solutionrelative:pomidor\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98D2B70-9C2A-4576-A925-D5583CF7A77D}|POMIDOR\\POMIDOR.csproj|c:\\users\\user\\desktop\\pomidor\\pomidor\\services\\analyticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98D2B70-9C2A-4576-A925-D5583CF7A77D}|POMIDOR\\POMIDOR.csproj|solutionrelative:pomidor\\services\\analyticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98D2B70-9C2A-4576-A925-D5583CF7A77D}|POMIDOR\\POMIDOR.csproj|c:\\users\\user\\desktop\\pomidor\\pomidor\\services\\reporting\\ireportstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98D2B70-9C2A-4576-A925-D5583CF7A77D}|POMIDOR\\POMIDOR.csproj|solutionrelative:pomidor\\services\\reporting\\ireportstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98D2B70-9C2A-4576-A925-D5583CF7A77D}|POMIDOR\\POMIDOR.csproj|c:\\users\\user\\desktop\\pomidor\\pomidor\\services\\pomodorosessionstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98D2B70-9C2A-4576-A925-D5583CF7A77D}|POMIDOR\\POMIDOR.csproj|solutionrelative:pomidor\\services\\pomodorosessionstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98D2B70-9C2A-4576-A925-D5583CF7A77D}|POMIDOR\\POMIDOR.csproj|c:\\users\\user\\desktop\\pomidor\\pomidor\\services\\storage\\jsonfilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98D2B70-9C2A-4576-A925-D5583CF7A77D}|POMIDOR\\POMIDOR.csproj|solutionrelative:pomidor\\services\\storage\\jsonfilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98D2B70-9C2A-4576-A925-D5583CF7A77D}|POMIDOR\\POMIDOR.csproj|c:\\users\\user\\desktop\\pomidor\\pomidor\\services\\storage\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98D2B70-9C2A-4576-A925-D5583CF7A77D}|POMIDOR\\POMIDOR.csproj|solutionrelative:pomidor\\services\\storage\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98D2B70-9C2A-4576-A925-D5583CF7A77D}|POMIDOR\\POMIDOR.csproj|c:\\users\\user\\desktop\\pomidor\\pomidor\\models\\analytics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98D2B70-9C2A-4576-A925-D5583CF7A77D}|POMIDOR\\POMIDOR.csproj|solutionrelative:pomidor\\models\\analytics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98D2B70-9C2A-4576-A925-D5583CF7A77D}|POMIDOR\\POMIDOR.csproj|c:\\users\\user\\desktop\\pomidor\\pomidor\\models\\reportfieldattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98D2B70-9C2A-4576-A925-D5583CF7A77D}|POMIDOR\\POMIDOR.csproj|solutionrelative:pomidor\\models\\reportfieldattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98D2B70-9C2A-4576-A925-D5583CF7A77D}|POMIDOR\\POMIDOR.csproj|c:\\users\\user\\desktop\\pomidor\\pomidor\\models\\invaliddurationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98D2B70-9C2A-4576-A925-D5583CF7A77D}|POMIDOR\\POMIDOR.csproj|solutionrelative:pomidor\\models\\invaliddurationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98D2B70-9C2A-4576-A925-D5583CF7A77D}|POMIDOR\\POMIDOR.csproj|c:\\users\\user\\desktop\\pomidor\\pomidor\\views\\pomodorowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98D2B70-9C2A-4576-A925-D5583CF7A77D}|POMIDOR\\POMIDOR.csproj|solutionrelative:pomidor\\views\\pomodorowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98D2B70-9C2A-4576-A925-D5583CF7A77D}|POMIDOR\\POMIDOR.csproj|c:\\users\\user\\desktop\\pomidor\\pomidor\\views\\pomodorowindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C98D2B70-9C2A-4576-A925-D5583CF7A77D}|POMIDOR\\POMIDOR.csproj|solutionrelative:pomidor\\views\\pomodorowindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98D2B70-9C2A-4576-A925-D5583CF7A77D}|POMIDOR\\POMIDOR.csproj|c:\\users\\user\\desktop\\pomidor\\pomidor\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98D2B70-9C2A-4576-A925-D5583CF7A77D}|POMIDOR\\POMIDOR.csproj|solutionrelative:pomidor\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98D2B70-9C2A-4576-A925-D5583CF7A77D}|POMIDOR\\POMIDOR.csproj|c:\\users\\user\\desktop\\pomidor\\pomidor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C98D2B70-9C2A-4576-A925-D5583CF7A77D}|POMIDOR\\POMIDOR.csproj|solutionrelative:pomidor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98D2B70-9C2A-4576-A925-D5583CF7A77D}|POMIDOR\\POMIDOR.csproj|c:\\users\\user\\desktop\\pomidor\\pomidor\\views\\analyticswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98D2B70-9C2A-4576-A925-D5583CF7A77D}|POMIDOR\\POMIDOR.csproj|solutionrelative:pomidor\\views\\analyticswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98D2B70-9C2A-4576-A925-D5583CF7A77D}|POMIDOR\\POMIDOR.csproj|c:\\users\\user\\desktop\\pomidor\\pomidor\\views\\analyticswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C98D2B70-9C2A-4576-A925-D5583CF7A77D}|POMIDOR\\POMIDOR.csproj|solutionrelative:pomidor\\views\\analyticswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98D2B70-9C2A-4576-A925-D5583CF7A77D}|POMIDOR\\POMIDOR.csproj|c:\\users\\user\\desktop\\pomidor\\pomidor\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98D2B70-9C2A-4576-A925-D5583CF7A77D}|POMIDOR\\POMIDOR.csproj|solutionrelative:pomidor\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98D2B70-9C2A-4576-A925-D5583CF7A77D}|POMIDOR\\POMIDOR.csproj|c:\\users\\user\\desktop\\pomidor\\pomidor\\pomidor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C98D2B70-9C2A-4576-A925-D5583CF7A77D}|POMIDOR\\POMIDOR.csproj|solutionrelative:pomidor\\pomidor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98D2B70-9C2A-4576-A925-D5583CF7A77D}|POMIDOR\\POMIDOR.csproj|c:\\users\\user\\desktop\\pomidor\\pomidor\\models\\pomodorosession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98D2B70-9C2A-4576-A925-D5583CF7A77D}|POMIDOR\\POMIDOR.csproj|solutionrelative:pomidor\\models\\pomodorosession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98D2B70-9C2A-4576-A925-D5583CF7A77D}|POMIDOR\\POMIDOR.csproj|c:\\users\\user\\desktop\\pomidor\\pomidor\\models\\apppaths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98D2B70-9C2A-4576-A925-D5583CF7A77D}|POMIDOR\\POMIDOR.csproj|solutionrelative:pomidor\\models\\apppaths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98D2B70-9C2A-4576-A925-D5583CF7A77D}|POMIDOR\\POMIDOR.csproj|c:\\users\\user\\desktop\\pomidor\\pomidor\\models\\pomodorostats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98D2B70-9C2A-4576-A925-D5583CF7A77D}|POMIDOR\\POMIDOR.csproj|solutionrelative:pomidor\\models\\pomodorostats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98D2B70-9C2A-4576-A925-D5583CF7A77D}|POMIDOR\\POMIDOR.csproj|c:\\users\\user\\desktop\\pomidor\\pomidor\\views\\goalswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C98D2B70-9C2A-4576-A925-D5583CF7A77D}|POMIDOR\\POMIDOR.csproj|solutionrelative:pomidor\\views\\goalswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98D2B70-9C2A-4576-A925-D5583CF7A77D}|POMIDOR\\POMIDOR.csproj|c:\\users\\user\\desktop\\pomidor\\pomidor\\views\\goalswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98D2B70-9C2A-4576-A925-D5583CF7A77D}|POMIDOR\\POMIDOR.csproj|solutionrelative:pomidor\\views\\goalswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98D2B70-9C2A-4576-A925-D5583CF7A77D}|POMIDOR\\POMIDOR.csproj|c:\\users\\user\\desktop\\pomidor\\pomidor\\views\\addtaskdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C98D2B70-9C2A-4576-A925-D5583CF7A77D}|POMIDOR\\POMIDOR.csproj|solutionrelative:pomidor\\views\\addtaskdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98D2B70-9C2A-4576-A925-D5583CF7A77D}|POMIDOR\\POMIDOR.csproj|c:\\users\\user\\desktop\\pomidor\\pomidor\\models\\subtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98D2B70-9C2A-4576-A925-D5583CF7A77D}|POMIDOR\\POMIDOR.csproj|solutionrelative:pomidor\\models\\subtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98D2B70-9C2A-4576-A925-D5583CF7A77D}|POMIDOR\\POMIDOR.csproj|c:\\users\\user\\desktop\\pomidor\\pomidor\\models\\goalitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98D2B70-9C2A-4576-A925-D5583CF7A77D}|POMIDOR\\POMIDOR.csproj|solutionrelative:pomidor\\models\\goalitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98D2B70-9C2A-4576-A925-D5583CF7A77D}|POMIDOR\\POMIDOR.csproj|c:\\users\\user\\desktop\\pomidor\\pomidor\\models\\goalterm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98D2B70-9C2A-4576-A925-D5583CF7A77D}|POMIDOR\\POMIDOR.csproj|solutionrelative:pomidor\\models\\goalterm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98D2B70-9C2A-4576-A925-D5583CF7A77D}|POMIDOR\\POMIDOR.csproj|c:\\users\\user\\desktop\\pomidor\\pomidor\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98D2B70-9C2A-4576-A925-D5583CF7A77D}|POMIDOR\\POMIDOR.csproj|solutionrelative:pomidor\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98D2B70-9C2A-4576-A925-D5583CF7A77D}|POMIDOR\\POMIDOR.csproj|c:\\users\\user\\desktop\\pomidor\\pomidor\\views\\addtaskdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98D2B70-9C2A-4576-A925-D5583CF7A77D}|POMIDOR\\POMIDOR.csproj|solutionrelative:pomidor\\views\\addtaskdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\justy\\AppData\\Local\\Temp\\.vsdbgsrc\\aad6be2495d0a786b94b3514a5b6903407fe2d6a75ad7e505df6a9d895927867\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98D2B70-9C2A-4576-A925-D5583CF7A77D}|POMIDOR\\POMIDOR.csproj|c:\\users\\user\\desktop\\pomidor\\pomidor\\models\\converters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98D2B70-9C2A-4576-A925-D5583CF7A77D}|POMIDOR\\POMIDOR.csproj|solutionrelative:pomidor\\models\\converters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98D2B70-9C2A-4576-A925-D5583CF7A77D}|POMIDOR\\POMIDOR.csproj|c:\\users\\user\\desktop\\pomidor\\pomidor\\models\\commands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98D2B70-9C2A-4576-A925-D5583CF7A77D}|POMIDOR\\POMIDOR.csproj|solutionrelative:pomidor\\models\\commands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98D2B70-9C2A-4576-A925-D5583CF7A77D}|POMIDOR\\POMIDOR.csproj|c:\\users\\user\\desktop\\pomidor\\pomidor\\models\\taskpriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98D2B70-9C2A-4576-A925-D5583CF7A77D}|POMIDOR\\POMIDOR.csproj|solutionrelative:pomidor\\models\\taskpriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98D2B70-9C2A-4576-A925-D5583CF7A77D}|POMIDOR\\POMIDOR.csproj|c:\\users\\user\\desktop\\pomidor\\pomidor\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98D2B70-9C2A-4576-A925-D5583CF7A77D}|POMIDOR\\POMIDOR.csproj|solutionrelative:pomidor\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98D2B70-9C2A-4576-A925-D5583CF7A77D}|POMIDOR\\POMIDOR.csproj|c:\\users\\user\\desktop\\pomidor\\pomidor\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C98D2B70-9C2A-4576-A925-D5583CF7A77D}|POMIDOR\\POMIDOR.csproj|solutionrelative:pomidor\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98D2B70-9C2A-4576-A925-D5583CF7A77D}|POMIDOR\\POMIDOR.csproj|c:\\users\\user\\desktop\\pomidor\\pomidor\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98D2B70-9C2A-4576-A925-D5583CF7A77D}|POMIDOR\\POMIDOR.csproj|solutionrelative:pomidor\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JsonFileRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\POMIDOR\\POMIDOR\\Services\\Storage\\JsonFileRepository.cs",
+              "RelativeDocumentMoniker": "POMIDOR\\Services\\Storage\\JsonFileRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\POMIDOR\\POMIDOR\\Services\\Storage\\JsonFileRepository.cs",
+              "RelativeToolTip": "POMIDOR\\Services\\Storage\\JsonFileRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAkwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T11:03:44.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\POMIDOR\\POMIDOR\\Services\\Storage\\IRepository.cs",
+              "RelativeDocumentMoniker": "POMIDOR\\Services\\Storage\\IRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\POMIDOR\\POMIDOR\\Services\\Storage\\IRepository.cs",
+              "RelativeToolTip": "POMIDOR\\Services\\Storage\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T11:03:27.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReportFieldAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\POMIDOR\\POMIDOR\\Models\\ReportFieldAttribute.cs",
+              "RelativeDocumentMoniker": "POMIDOR\\Models\\ReportFieldAttribute.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\POMIDOR\\POMIDOR\\Models\\ReportFieldAttribute.cs",
+              "RelativeToolTip": "POMIDOR\\Models\\ReportFieldAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T11:02:20.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InvalidDurationException.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\POMIDOR\\POMIDOR\\Models\\InvalidDurationException.cs",
+              "RelativeDocumentMoniker": "POMIDOR\\Models\\InvalidDurationException.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\POMIDOR\\POMIDOR\\Models\\InvalidDurationException.cs",
+              "RelativeToolTip": "POMIDOR\\Models\\InvalidDurationException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T11:00:58.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AnalyticsWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\POMIDOR\\POMIDOR\\Views\\AnalyticsWindow.xaml",
+              "RelativeDocumentMoniker": "POMIDOR\\Views\\AnalyticsWindow.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\POMIDOR\\POMIDOR\\Views\\AnalyticsWindow.xaml",
+              "RelativeToolTip": "POMIDOR\\Views\\AnalyticsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-27T09:21:20.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AnalyticsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\POMIDOR\\POMIDOR\\ViewModels\\AnalyticsViewModel.cs",
+              "RelativeDocumentMoniker": "POMIDOR\\ViewModels\\AnalyticsViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\POMIDOR\\POMIDOR\\ViewModels\\AnalyticsViewModel.cs",
+              "RelativeToolTip": "POMIDOR\\ViewModels\\AnalyticsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T09:20:20.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IReportStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\POMIDOR\\POMIDOR\\Services\\Reporting\\IReportStrategy.cs",
+              "RelativeDocumentMoniker": "POMIDOR\\Services\\Reporting\\IReportStrategy.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\POMIDOR\\POMIDOR\\Services\\Reporting\\IReportStrategy.cs",
+              "RelativeToolTip": "POMIDOR\\Services\\Reporting\\IReportStrategy.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAkwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T11:05:29.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\POMIDOR\\POMIDOR\\Services\\ReportService.cs",
+              "RelativeDocumentMoniker": "POMIDOR\\Services\\ReportService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\POMIDOR\\POMIDOR\\Services\\ReportService.cs",
+              "RelativeToolTip": "POMIDOR\\Services\\ReportService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T09:17:22.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AnalyticsService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\POMIDOR\\POMIDOR\\Services\\AnalyticsService.cs",
+              "RelativeDocumentMoniker": "POMIDOR\\Services\\AnalyticsService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\POMIDOR\\POMIDOR\\Services\\AnalyticsService.cs",
+              "RelativeToolTip": "POMIDOR\\Services\\AnalyticsService.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAkwHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T09:16:41.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PomodoroSessionStore.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\POMIDOR\\POMIDOR\\Services\\PomodoroSessionStore.cs",
+              "RelativeDocumentMoniker": "POMIDOR\\Services\\PomodoroSessionStore.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\POMIDOR\\POMIDOR\\Services\\PomodoroSessionStore.cs",
+              "RelativeToolTip": "POMIDOR\\Services\\PomodoroSessionStore.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T09:16:23.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Analytics.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\POMIDOR\\POMIDOR\\Models\\Analytics.cs",
+              "RelativeDocumentMoniker": "POMIDOR\\Models\\Analytics.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\POMIDOR\\POMIDOR\\Models\\Analytics.cs",
+              "RelativeToolTip": "POMIDOR\\Models\\Analytics.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAA3wEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T09:15:38.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PomodoroWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\POMIDOR\\POMIDOR\\Views\\PomodoroWindow.xaml.cs",
+              "RelativeDocumentMoniker": "POMIDOR\\Views\\PomodoroWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\POMIDOR\\POMIDOR\\Views\\PomodoroWindow.xaml.cs",
+              "RelativeToolTip": "POMIDOR\\Views\\PomodoroWindow.xaml.cs",
+              "ViewState": "AgIAAMEAAAAAAAAAAAAkwNgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T19:53:52.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AnalyticsWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\POMIDOR\\POMIDOR\\Views\\AnalyticsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "POMIDOR\\Views\\AnalyticsWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\POMIDOR\\POMIDOR\\Views\\AnalyticsWindow.xaml.cs",
+              "RelativeToolTip": "POMIDOR\\Views\\AnalyticsWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T09:21:52.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PomodoroSession.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\POMIDOR\\POMIDOR\\Models\\PomodoroSession.cs",
+              "RelativeDocumentMoniker": "POMIDOR\\Models\\PomodoroSession.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\POMIDOR\\POMIDOR\\Models\\PomodoroSession.cs",
+              "RelativeToolTip": "POMIDOR\\Models\\PomodoroSession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T09:15:15.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PomodoroWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\POMIDOR\\POMIDOR\\Views\\PomodoroWindow.xaml",
+              "RelativeDocumentMoniker": "POMIDOR\\Views\\PomodoroWindow.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\POMIDOR\\POMIDOR\\Views\\PomodoroWindow.xaml",
+              "RelativeToolTip": "POMIDOR\\Views\\PomodoroWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-26T19:53:09.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\POMIDOR\\POMIDOR\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "POMIDOR\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\POMIDOR\\POMIDOR\\MainWindow.xaml",
+              "RelativeToolTip": "POMIDOR\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-26T14:23:46.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\POMIDOR\\POMIDOR\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "POMIDOR\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\POMIDOR\\POMIDOR\\MainWindow.xaml.cs",
+              "RelativeToolTip": "POMIDOR\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAUBAAAAAAAAAAAAwCoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T14:23:40.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppPaths.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\POMIDOR\\POMIDOR\\Models\\AppPaths.cs",
+              "RelativeDocumentMoniker": "POMIDOR\\Models\\AppPaths.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\POMIDOR\\POMIDOR\\Models\\AppPaths.cs",
+              "RelativeToolTip": "POMIDOR\\Models\\AppPaths.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T09:14:34.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SubTask.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\POMIDOR\\POMIDOR\\Models\\SubTask.cs",
+              "RelativeDocumentMoniker": "POMIDOR\\Models\\SubTask.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\POMIDOR\\POMIDOR\\Models\\SubTask.cs",
+              "RelativeToolTip": "POMIDOR\\Models\\SubTask.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAuwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T18:18:47.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GoalItem.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\POMIDOR\\POMIDOR\\Models\\GoalItem.cs",
+              "RelativeDocumentMoniker": "POMIDOR\\Models\\GoalItem.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\POMIDOR\\POMIDOR\\Models\\GoalItem.cs",
+              "RelativeToolTip": "POMIDOR\\Models\\GoalItem.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAiwHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T19:34:29.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PomodoroStats.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\POMIDOR\\POMIDOR\\Models\\PomodoroStats.cs",
+              "RelativeDocumentMoniker": "POMIDOR\\Models\\PomodoroStats.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\POMIDOR\\POMIDOR\\Models\\PomodoroStats.cs",
+              "RelativeToolTip": "POMIDOR\\Models\\PomodoroStats.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAUwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T19:52:31.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GoalsWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\POMIDOR\\POMIDOR\\Views\\GoalsWindow.xaml",
+              "RelativeDocumentMoniker": "POMIDOR\\Views\\GoalsWindow.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\POMIDOR\\POMIDOR\\Views\\GoalsWindow.xaml",
+              "RelativeToolTip": "POMIDOR\\Views\\GoalsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-26T19:37:18.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\POMIDOR\\POMIDOR\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "POMIDOR\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\POMIDOR\\POMIDOR\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "POMIDOR\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAiwFMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T15:19:38.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GoalsWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\POMIDOR\\POMIDOR\\Views\\GoalsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "POMIDOR\\Views\\GoalsWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\POMIDOR\\POMIDOR\\Views\\GoalsWindow.xaml.cs",
+              "RelativeToolTip": "POMIDOR\\Views\\GoalsWindow.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAUwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T19:38:01.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GoalTerm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\POMIDOR\\POMIDOR\\Models\\GoalTerm.cs",
+              "RelativeDocumentMoniker": "POMIDOR\\Models\\GoalTerm.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\POMIDOR\\POMIDOR\\Models\\GoalTerm.cs",
+              "RelativeToolTip": "POMIDOR\\Models\\GoalTerm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T19:34:03.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AddTaskDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\POMIDOR\\POMIDOR\\Views\\AddTaskDialog.xaml",
+              "RelativeDocumentMoniker": "POMIDOR\\Views\\AddTaskDialog.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\POMIDOR\\POMIDOR\\Views\\AddTaskDialog.xaml",
+              "RelativeToolTip": "POMIDOR\\Views\\AddTaskDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-26T15:20:12.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "POMIDOR.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\POMIDOR\\POMIDOR\\POMIDOR.csproj",
+              "RelativeDocumentMoniker": "POMIDOR\\POMIDOR.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\POMIDOR\\POMIDOR\\POMIDOR.csproj",
+              "RelativeToolTip": "POMIDOR\\POMIDOR.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-26T16:10:08.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AddTaskDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\POMIDOR\\POMIDOR\\Views\\AddTaskDialog.xaml.cs",
+              "RelativeDocumentMoniker": "POMIDOR\\Views\\AddTaskDialog.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\POMIDOR\\POMIDOR\\Views\\AddTaskDialog.xaml.cs",
+              "RelativeToolTip": "POMIDOR\\Views\\AddTaskDialog.xaml.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAkwGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T15:59:58.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\POMIDOR\\POMIDOR\\Models\\TodoItem.cs",
+              "RelativeDocumentMoniker": "POMIDOR\\Models\\TodoItem.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\POMIDOR\\POMIDOR\\Models\\TodoItem.cs",
+              "RelativeToolTip": "POMIDOR\\Models\\TodoItem.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAmwJcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T15:18:04.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Commands.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\POMIDOR\\POMIDOR\\Models\\Commands.cs",
+              "RelativeDocumentMoniker": "POMIDOR\\Models\\Commands.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\POMIDOR\\POMIDOR\\Models\\Commands.cs",
+              "RelativeToolTip": "POMIDOR\\Models\\Commands.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T17:32:13.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "XamlReader.cs",
+              "DocumentMoniker": "C:\\Users\\justy\\AppData\\Local\\Temp\\.vsdbgsrc\\aad6be2495d0a786b94b3514a5b6903407fe2d6a75ad7e505df6a9d895927867\\XamlReader.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\justy\\AppData\\Local\\Temp\\.vsdbgsrc\\aad6be2495d0a786b94b3514a5b6903407fe2d6a75ad7e505df6a9d895927867\\XamlReader.cs",
+              "ToolTip": "C:\\Users\\justy\\AppData\\Local\\Temp\\.vsdbgsrc\\aad6be2495d0a786b94b3514a5b6903407fe2d6a75ad7e505df6a9d895927867\\XamlReader.cs[Tylko do odczytu]",
+              "RelativeToolTip": "..\\..\\..\\justy\\AppData\\Local\\Temp\\.vsdbgsrc\\aad6be2495d0a786b94b3514a5b6903407fe2d6a75ad7e505df6a9d895927867\\XamlReader.cs[Tylko do odczytu]",
+              "ViewState": "AgIAAKkBAAAAAAAAAAAQwLUBAAACAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T18:21:42.393Z",
+              "EditorCaption": "[Tylko do odczytu]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Converters.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\POMIDOR\\POMIDOR\\Models\\Converters.cs",
+              "RelativeDocumentMoniker": "POMIDOR\\Models\\Converters.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\POMIDOR\\POMIDOR\\Models\\Converters.cs",
+              "RelativeToolTip": "POMIDOR\\Models\\Converters.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T17:51:44.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "TaskPriority.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\POMIDOR\\POMIDOR\\Models\\TaskPriority.cs",
+              "RelativeDocumentMoniker": "POMIDOR\\Models\\TaskPriority.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\POMIDOR\\POMIDOR\\Models\\TaskPriority.cs",
+              "RelativeToolTip": "POMIDOR\\Models\\TaskPriority.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T15:18:53.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\POMIDOR\\POMIDOR\\App.xaml.cs",
+              "RelativeDocumentMoniker": "POMIDOR\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\POMIDOR\\POMIDOR\\App.xaml.cs",
+              "RelativeToolTip": "POMIDOR\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T17:16:49.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\POMIDOR\\POMIDOR\\App.xaml",
+              "RelativeDocumentMoniker": "POMIDOR\\App.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\POMIDOR\\POMIDOR\\App.xaml",
+              "RelativeToolTip": "POMIDOR\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-26T17:15:47.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\POMIDOR\\POMIDOR\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "POMIDOR\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\POMIDOR\\POMIDOR\\AssemblyInfo.cs",
+              "RelativeToolTip": "POMIDOR\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T15:27:35.985Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36616.10 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POMIDOR", "POMIDOR\POMIDOR.csproj", "{C98D2B70-9C2A-4576-A925-D5583CF7A77D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C98D2B70-9C2A-4576-A925-D5583CF7A77D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C98D2B70-9C2A-4576-A925-D5583CF7A77D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C98D2B70-9C2A-4576-A925-D5583CF7A77D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C98D2B70-9C2A-4576-A925-D5583CF7A77D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E27BFE9-6A47-4163-A7DB-07C15AC9197B}
+	EndGlobalSection
+EndGlobal
